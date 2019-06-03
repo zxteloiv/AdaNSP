@@ -1,0 +1,17 @@
+*.swp
+.vscode
+*.pyc
+*.tmp
+*temp
+*.log
+*.dat
+vocab.pkl
+.idea
+env
+log.*
+tmp.*
+*.out
+out.*
+__pycache__
+sync.sh
+.DS_Store
